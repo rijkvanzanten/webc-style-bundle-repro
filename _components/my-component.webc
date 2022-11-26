@@ -1,0 +1,7 @@
+<div>Component with Styles</div>
+
+<style webc:scoped>
+   div {
+      background-color: papayawhip;
+   }
+</style>

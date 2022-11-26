@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+
+<head>
+   <title>WebC Style Example</title>
+   <style @raw="getCss(page.url)"></style>
+</head>
+
+<body @raw="content"></body>
+
+</html>

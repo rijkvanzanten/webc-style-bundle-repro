@@ -1,0 +1,5 @@
+---
+layout: home.webc
+---
+
+<p>But if the webc is in a layout itself (see home.webc), it no longer works</p>

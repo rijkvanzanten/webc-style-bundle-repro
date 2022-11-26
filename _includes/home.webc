@@ -1,0 +1,11 @@
+---
+layout: root.webc
+---
+
+<header>Header</header>
+
+<main @raw="content"></main>
+
+<my-component></my-component>
+
+<footer>Footer</footer>

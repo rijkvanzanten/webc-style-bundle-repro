@@ -1,0 +1,7 @@
+---
+layout: root.webc
+---
+
+<p>This seems to work</p>
+
+<my-component></my-component>
